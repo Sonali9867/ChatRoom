@@ -17,8 +17,7 @@ This project demonstrates how to create a multi-user chat system where users can
 
 ## 📷 Preview
 
-![ChatRoom Screenshot](https://via.placeholder.com/700x400.png?text=ChatRoom+GUI+Preview)  
-> *Replace this image with a screenshot of your app.*
+![ChatRoom Screenshot](Screenshots/screenshot.png)
 
 ---
 
