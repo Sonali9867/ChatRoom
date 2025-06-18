@@ -47,3 +47,9 @@ This project demonstrates how to create a multi-user chat system where users can
 ```bash
 git clone https://github.com/Sonali9867/ChatRoom.git
 cd ChatRoom
+
+# Run the server (in one terminal)
+python server.py
+# In a new terminal, run the client
+python client.py
+
