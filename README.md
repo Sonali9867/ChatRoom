@@ -17,7 +17,9 @@ This project demonstrates how to create a multi-user chat system where users can
 
 ## 📷 Preview
 
-![ChatRoom Screenshot](Screenshots/screenshot.png)
+![ChatRoom Screenshot](Screenshots/Screenshot_1.png)
+![ChatRoom Screenshot](Screenshots/Screenshot_2.png)
+![ChatRoom Screenshot](Screenshots/Screenshot_3.png)
 
 ---
 
